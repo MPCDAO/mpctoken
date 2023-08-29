@@ -2,6 +2,8 @@ MPC has been created as the result of a need felt by a community consisted of pr
 
 smart contract :
 0xf200fa6b8649704591a8ed55e8739111676f1a9b
+
+https://linktr.ee/mpc.token
 --------------------------------------------------------------
 
                                          Mission and purpose of  "MPC DAO"  
