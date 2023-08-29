@@ -1,4 +1,4 @@
-DEX trde and History
+DEX Trade and History
 ---------------------------------------------------
 https://dex.guru/
 
