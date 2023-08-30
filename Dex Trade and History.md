@@ -26,3 +26,12 @@ https://pancakeswap.finance/swap?outputCurrency=0xF200FA6B8649704591a8Ed55E87391
 ---------------------------------------------------
 
 https://www.sushi.com/swap?toChainId=56&toCurrency=0xF200FA6B8649704591a8Ed55E8739111676f1a9b&fromChainId=1&fromCurrency=NATIVE&amount=0.001
+
+
+---------------------------------------------------
+
+Limit Orders
+
+https://app.bogged.finance/
+
+https://app.bogged.finance/bsc/trade?type=buy&tokenIn=BNB&tokenOut
